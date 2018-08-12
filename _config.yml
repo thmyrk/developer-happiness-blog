@@ -1,0 +1,21 @@
+theme: jekyll-theme-clean-blog
+
+title:             Developer Happiness
+email:             przemyslaw.piotrowski@atteo.com
+description:       Tips and ready-made solutions for web development
+author:            Przemysław Piotrowski
+baseurl:           ""
+url:               "https://developer-happiness-blog.com"
+
+# Social Profiles
+twitter_username:  arclite93
+github_username:   thmyrk
+facebook_username: arklajt
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
