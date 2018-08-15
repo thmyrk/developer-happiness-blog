@@ -2,7 +2,7 @@ theme: jekyll-theme-clean-blog
 
 title:             Developer Happiness
 email:             przemyslaw.piotrowski@atteo.com
-description:       Tips and ready-made solutions for web development
+description:       Tips and ready-to-use solutions for web development
 author:            Przemysław Piotrowski
 baseurl:           ""
 url:               "https://developer-happiness-blog.com"
