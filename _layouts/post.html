@@ -45,6 +45,10 @@ layout: default
 
       </div>
 
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+
     </div>
   </div>
 </div>
