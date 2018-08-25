@@ -16,8 +16,8 @@ around with DevOps-related tools, like **Ansible**, **Docker**, **AWS** stack an
 I believe that following **DevOps** principles and **Agile** methodology is a good way to achieve that.
 
 Jordan Peterson's first rule from his book 12 Rules for life is "Clean up your room!" - as a programmer I paraphrase that and declare
-"Clean up your code!", because who wants to work with methods consisting of 150 lines? Btw. did you know that MVC pattern is over
-[40 years old](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller#History)?
+"Clean up your code!", because who wants to read methods consisting of 150 lines? Btw in the topic of bad patterns... did you know
+that MVC pattern is over [40 years old](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller#History)?
 
 In my free time I sing and I play guitar (maybe one day I'll have some links to show :) ), I read philosophy books, train powerlifting at the
 gym, follow healthy habits and read about dieting (I'm a fan of low-to-moderate carb diets, I did ketogenic diet and a bit of fasting too).
