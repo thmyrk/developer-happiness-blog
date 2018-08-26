@@ -44,16 +44,16 @@ After it's done click "Restart now". This can crash, but no worries.
 
 ## Graphics issues - nomodeset to the rescue
 
-When booting ubuntu, insert `nomodeset` before `splash` in boot options. If you don't do this your laptop will crash somewhere around splash screen
+When booting ubuntu, insert `nomodeset` before `quiet splash` in boot options. If you don't do this your laptop will crash somewhere around splash screen
 and you'll have to force shutdown. When in grub menu go over `Ubuntu` and press `e` key. Find the line with `splash` at the end and put `nomodeset`
-before `splash`. Continue with the boot process. If you don't want to put `nomodeset` every time before booting, update your /etc/default/grub
+before `quiet splash`. Continue with the boot process. If you don't want to put `nomodeset` every time before booting, update your /etc/default/grub
 file and execute `update-grub` as root. Take note though that putting `nomodeset` in boot options is temporary.
 
 Now you should be able to boot Ubuntu and login using Xorg. Because we disabled kernel graphics configuration (`nomodeset`), some
 features may not work. In my case, manipulation of the display was limited. I couldn't change brightness using buttons on
 my keyboard and Night Light wasn't working, but this is fine for now.
 
-Here is a good time to make some research about the state of your system. Install `lshw`: `sudo apt install lshw` (remember about
+Now is a good time to make some research about the state of your system. Install `lshw`: `sudo apt install lshw` (remember about
 running `sudo apt update` before). This utility will provide you with details about your hardware. Execute `lshw -C video`.
 In my case, I got two entries, one from NVidia, other from Intel (Dell G5 has two graphic cards). Both of them had `UNCLAIMED`
 word next to them. This is due to the fact that we set `nomodeset` in the kernel. `UNCLAIMED` means that there is no driver attached to
