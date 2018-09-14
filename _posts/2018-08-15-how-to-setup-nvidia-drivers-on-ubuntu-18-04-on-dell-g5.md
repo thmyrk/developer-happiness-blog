@@ -7,7 +7,7 @@ categories: linux
 comments: true
 ---
 
-Linux is a great! It's configurable, it's perfect for developers and it gives you an overall nice experience. Unless... you are installing it
+Linux is great! It's configurable, it's perfect for developers and it gives you an overall nice experience. Unless... you are installing it
 on a new machine and something doesn't go right.
 
 You have to give it to Mac and Windows - they don't offer the same flexibility as Linux systems, but at least they
