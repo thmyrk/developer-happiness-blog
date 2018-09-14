@@ -3,7 +3,7 @@ layout: post
 title:  "Traits of a perfect developer"
 date:   2018-09-12 20:30:33 +0200
 background: '/img/posts/traits-of-perfect-developer.jpg'
-categories: web self personal development programming traits better programmer
+categories: self-development
 comments: true
 ---
 

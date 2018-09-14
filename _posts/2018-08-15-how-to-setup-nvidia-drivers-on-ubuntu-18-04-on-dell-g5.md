@@ -3,7 +3,7 @@ layout: post
 title:  "How to make Ubuntu 18.04 work on Dell G5"
 date:   2018-08-14 15:14:33 +0200
 background: '/img/posts/frustration.jpg'
-categories: dell g5 linux ubuntu installation nvidia graphics
+categories: linux
 comments: true
 ---
 
