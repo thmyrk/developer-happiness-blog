@@ -100,16 +100,12 @@ Apart from that, there's ensuring you have a **proper ergonomy of your workplace
 your back (and other parts of your body) will not like you. So making sure you have the proper equipment to perform in a healthy and efficient way is a must.
 This means that you will have to accept some expenses.
 
-<div class="text-center">
-  <img src="/img/posts/how-to-work-remotely/workplace-costs.png" alt="chair, desk and monitor cost around 300 EUR">
-</div>
+<img src="/img/posts/how-to-work-remotely/workplace-costs.png" alt="chair, desk and monitor cost around 300 EUR" class="post-image">
 
 The good thing is, that if you're the one taking care of your office space then you can organize it in any way you wish. You can make yourself a standing desk
 or even a treadmill desk.
 
-<div class="text-center">
-  <img src="/img/posts/how-to-work-remotely/linus-torvalds-desk.gif" alt="chair, desk and monitor cost around 300 EUR">
-</div>
+<img src="/img/posts/how-to-work-remotely/linus-torvalds-desk.gif" alt="chair, desk and monitor cost around 300 EUR" class="post-image">
 
 When you add some smaller equipment (mouse, keyboard) to the costs above then you end up with around **350 EUR** of costs total to properly setup your
 work environment (not counting bills like electricity).
