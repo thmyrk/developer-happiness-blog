@@ -30,6 +30,10 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 
+  {% if page.background %}
+    <meta content="{{ site.url }}/{{ page.background }}" property="og:image">
+  {% endif %}
+
   {% seo %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
