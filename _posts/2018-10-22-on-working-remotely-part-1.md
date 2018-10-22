@@ -3,6 +3,7 @@ layout: post
 title:  "On working remotely. Part 1: Is remote work for me?"
 date:   2018-10-22 18:00:00 +0200
 background: '/img/posts/on-working-remotely-part-1.jpg'
+image: '/img/posts/on-working-remotely-part-1.jpg'
 categories: organization
 comments: true
 ---
