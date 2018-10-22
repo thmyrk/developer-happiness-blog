@@ -25,7 +25,8 @@ wasted on subjects that were not nearly relevant to what I was going to do in th
 
 ### Remote work is not easy!
 
-Although around *50%* of employees are already familiar with remote work [1], there are still the other *50%* who work in companies that
+Although around *50%* of employees are already familiar with remote work [[1]](https://www.owllabs.com/state-of-remote-work),
+there are still the other *50%* who work in companies that
 don't allow them to do that. Further on, in these working *50%*, there are lots who do it wrong. Managing a distributed team is not easy.
 There are lots of challenges. A company needs to have proper processes in place to make remote workers good team players. That's why it's **crucial**
 to understand what good and bad things remote work brings to the table and *how to manage them*.
@@ -77,7 +78,7 @@ for an employer to have you work remotely. This may influence your pay for the *
 ### Performance
 
 This is very individual of course, but the trend that I noticed is that most people are **more performant** when working from home. This applies to me,
-people I've reached out to and to other 91% of participants of a study made by TinyPulse [2].
+people I've reached out to and to other 91% of participants of a study made by TinyPulse [[2]](https://www.tinypulse.com/what-leaders-need-to-know-about-remote-workers-report).
 
 If you're at your desk in an office and you're trying to solve a difficult problem you think to yourself "Oh god! I need to grab a coffee and I'll
 come back to this!". So you go into your office kitchen, make yourself a coffee, meet your coworker there and she starts telling you a story
@@ -154,8 +155,13 @@ subject!
 
 Przemek
 
+#### Acknowledgments
+
+Thanks to [Michał Januszkiewicz](https://www.linkedin.com/in/micha%C5%82-januszkiewicz-032aa5103/) for helping me write this post
+
 #### References
 
-[1] OWLLabs - State of remote Work 2017 https://www.owllabs.com/state-of-remote-work
+[1] OWLLabs - State of remote Work 2017 [https://www.owllabs.com/state-of-remote-work](https://www.owllabs.com/state-of-remote-work)
 
-[2] TinyPulse - What Leaders Need To Know About Remote Workers 2016 https://www.tinypulse.com/what-leaders-need-to-know-about-remote-workers-report
+[2] TinyPulse - What Leaders Need To Know About Remote Workers 2016
+[https://www.tinypulse.com/what-leaders-need-to-know-about-remote-workers-report](https://www.tinypulse.com/what-leaders-need-to-know-about-remote-workers-report)
