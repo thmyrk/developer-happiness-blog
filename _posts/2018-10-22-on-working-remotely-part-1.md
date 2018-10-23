@@ -10,7 +10,7 @@ comments: true
 
 > Who's a remote worker? He's somebody who gets the work done, but you've never seen him, so you wonder whether he really exists.
 
-Recently I gave a talk on remote work on [DTech 2018](https://setskillbuild.com/dtech2018/), a technology event that took place in Vila Real, Portugal.
+Recently I gave a talk on remote work at [DTech 2018](https://setskillbuild.com/dtech2018/), a technology event that took place in Vila Real, Portugal.
 Working in a [company](https://polcode.com/) for which remote work is bread and butter, and being a full-remote worker myself,
 I wanted to give my input on why would you want to work remotely, why remote work is a good idea in general, when it doesn't function properly,
 and how to organize your company to make distributed teams efficient.
@@ -59,7 +59,7 @@ which you really start to appreciate over time.
 If you come from a small town like me and are looking for work, then you need to make a **choice**: either to pick a company that normally would be a
 second-choice for you, but it's the only one that hires people with your expertise in your neighbourhood, or you leave your friends, family and move
 out to a bigger city to work at someplace better. With remote work, you don't have that problem. You can *pick-and-choose* - you can employ yourself
-at a company from the opposite side of your country, or even, you can work for somebody from the *opposite side of Earth!* (if the law allows it of course).
+at a company from the opposite side of your country, or even, you can work for somebody from the *opposite side of the Earth!* (if the law allows it of course).
 Here I'll make a smooth transition to my next point:
 
 ### Possible higher pay
