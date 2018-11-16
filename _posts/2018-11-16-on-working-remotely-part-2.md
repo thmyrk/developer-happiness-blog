@@ -15,7 +15,8 @@ Working in a [company](https://polcode.com/) for which remote work is bread and 
 I wanted to give my input on why would you want to work remotely, why remote work is a **good idea** in general, when it **doesn't function properly**,
 and how to *organize your company to make distributed teams efficient*.
 
-This is part two of my "On working remotely" post, where I will talk about what are the things to look out for when organizing distributed teams
+This is part two of my "On working remotely" post (click [here](https://developer-happiness-blog.com/organization/2018/10/22/on-working-remotely-part-1.html)
+for part one!), where I will talk about what are the things to look out for when organizing distributed teams
 in **your** company. I will share with you some studies done about remote work and tips on how to manage remote and on-site workers in your
 company and we'll discuss some things that we have to look out for.
 
