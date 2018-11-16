@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On working remotely. Part 2: Should I employ remotely?"
+title:  "On working remotely. Part 2: Should your company allow remote work?"
 date:   2018-11-16 12:50:00 +0100
 background: '/img/posts/on-working-remotely-part-2.jpg'
 image: '/img/posts/on-working-remotely-part-2.jpg'
