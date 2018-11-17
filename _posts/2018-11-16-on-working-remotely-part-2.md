@@ -16,7 +16,7 @@ I wanted to give my input on why would you want to work remotely, why remote wor
 and how to *organize your company to make distributed teams efficient*.
 
 This is part two of my "On working remotely" post (click [here](https://developer-happiness-blog.com/organization/2018/10/22/on-working-remotely-part-1.html)
-for part one!), where I will talk about what are the things to look out for when organizing distributed teams
+for part one!), where I will talk about the things to look out for when organizing distributed teams
 in **your** company. I will share with you some studies done about remote work and tips on how to manage remote and on-site workers in your
 company and we'll discuss some things that we have to look out for.
 
@@ -32,7 +32,7 @@ I hope you enjoyed my *remote pun*. Now, jokes aside, you're probably wondering 
 
 ## What do the studies say?
 
-The most reasonable thing to do first, when trying to answer the question "should I employ remotely", is to consider what are the facts. There are
+The most reasonable thing to do first, when trying to answer the question "should I allow remote work", is to consider the facts. There are
 studies done about remote work, so let's have a look at them. There are a bunch of them available online, but I'm going to reference three in this post:
 
 * _**[OwlLabs - State of Remote Work 2017](https://www.owllabs.com/state-of-remote-work-2017)**_
@@ -144,7 +144,7 @@ Now to the **main point**!
 
 *Are you willing to put additional effort into tackling the challenges that arise when employing remote workers?*
 
-If yes, then definitely it's you **should** employ remote workers. Besides having a bigger pool of employees to choose from (not just your city and
+If yes, then definitely you **should** employ remote workers. Besides having a bigger pool of employees to choose from (not just your city and
 surroundings, but theoretically the *whole world*) there are another bunch of advantages described above, like the possibility of having **smaller
 employee turnover** or **better employee satisfaction and performance**. Just remember to handle **communication** properly and take care of your remote
 workers a little bit more than your on-site workers.
