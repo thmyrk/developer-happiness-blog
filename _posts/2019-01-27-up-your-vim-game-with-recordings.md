@@ -3,6 +3,7 @@ layout: post
 title:  "Up your vim game with recordings"
 date:   2019-01-27 21:30:00 +0100
 background: '/img/posts/up-your-vim-game-with-recordings.jpg'
+image: '/img/posts/up-your-vim-game-with-recordings.jpg'
 categories: tools
 comments: true
 ---
