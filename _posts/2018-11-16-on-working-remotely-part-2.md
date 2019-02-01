@@ -98,7 +98,7 @@ From what we have seen I can think of *3 issues* that a company hiring remote wo
 1. **Organization of work**
 1. **Cultivating company culture**
 
-I want to talk a bit about how we could tackle these issues and I'm going to use the company I work for (that is [Polcode](www.polcode.com))
+I want to talk a bit about how we could tackle these issues and I'm going to use the company I work for (that is [Polcode](https://polcode.com))
 as an example.
 
 ## Communication
