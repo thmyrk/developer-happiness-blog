@@ -66,6 +66,12 @@ I started playing Starcraft 2 for fun, it was by accident that I found I became 
 it's not the case with you, then in this worst scenario at least you had some fun ;) Not to mention video games are a *great* way to
 relieve stress after a full day of work :)
 
+Let me know what are the games you're playing and whether you feel any benefits!
+
+Thanks for reading!
+
+Przemysław
+
 # Useful links:
 * [https://www.psychologytoday.com/us/blog/freedom-learn/201502/cognitive-benefits-playing-video-games](https://www.psychologytoday.com/us/blog/freedom-learn/201502/cognitive-benefits-playing-video-games)
 
@@ -85,6 +91,3 @@ relieve stress after a full day of work :)
 1. Rosser, James C. Jr., Paul J. Lynch, Laurie Cuddihy, Dougls A. Gentile, Jonathan Klonsky, and Ronald Merrell. 2007. “The Impact of Video Games on Training Surgeons in the 21st Century.” Archives of Surgery 142:181–86.
 1. Schlickum, Marcus K., Leif Hedman, Lars Enochsson, Ann Kjellin, and Li Fellander-Tsai. 2009.“Systematic Video Game Training in Surgical Novices Improves Performance in Virtual Reality Endoscopic Surgical Simulators: A Prospective Randomized Study.” World Journal of Surgery 33:2360–67.
 
-Thanks for reading!
-
-Przemysław
