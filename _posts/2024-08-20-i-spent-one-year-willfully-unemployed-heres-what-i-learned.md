@@ -8,7 +8,7 @@ categories: self-development
 comments: true
 ---
 
-# Lesson 1: You Don’t Need Work to Be Fulfilled in Life
+# Lesson 1: Life's Fulfillment Comes From Within
 
 In the first weeks of unemployment, I missed solving problems. I really expected someone to come up with an idea or obstacle that needed a solution. Problem-solving, figuring things out, and discussing ideas had become such an integral part of my daily routine that I only realized their importance when they were no longer there.
 
@@ -33,7 +33,7 @@ After months of “living the dream” and fulfilling yourself personally, the �
 Because we’re ambitious and smart people, we’ll, of course, choose the more difficult route and attempt the latter.
 
 > “Desire is the root of suffering.” — from Buddhism
- 
+
 > “Real wisdom is recognizing and accepting that every experience is impermanent. With this insight, you will not be overwhelmed by ups and downs.” — S. N. Goenka
 
 > “Do not wish for things to happen differently; rather, wish that they happen the way they do and that you act accordingly.” — A variation of Epictetus
